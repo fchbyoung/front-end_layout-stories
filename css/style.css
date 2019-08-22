@@ -1,0 +1,104 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header {
+    background: cadetblue;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+#logo {
+    height: 100px;
+    width: 30%;
+    float: left;
+}
+
+#banner {
+    height: 100px;
+    width: 70%;
+    padding-left: 200px;
+    padding-top: 20px;
+    margin-left: 300px;
+}
+
+#banner-search {
+    margin-left: 300px;
+}
+
+#head-link {
+    background: gainsboro;
+    padding-left: 140px;
+    padding-top: 5px;
+    width: 100%;
+    position: fixed;
+}
+
+#head-link a {
+    margin-left: 45px;
+}
+
+#left {
+    background: whitesmoke;
+    height: 700px;
+    width: 10%;
+    margin-top: 140px;
+    float: left;
+}
+
+#main {
+    background: white;
+    height: 700px;
+    width: 90%;
+    margin-top: 140px;
+    float: left;
+    padding: 20px;
+}
+
+#footer {
+    background: cadetblue;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+#footer p {
+    text-align: center;
+}
+
+#main, .content img {
+    width: 150px;
+    height: 250px;
+}
+
+.content img{
+    display: flex;
+}
+
+.image-content {
+    display: flex;
+}
+
+.image-content img {
+    margin-left: 120px;
+}
+
+.image-content2 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.image-content2 img {
+    margin-left: 120px;
+}
+
+
+
+
+
